@@ -16,3 +16,5 @@ http://www.onvif.org/
 http://www.cs.fsu.edu/~engelen/soap.html
 
 My project is Base on gsoap 2.8-17
+
+http://sourceforge.net/projects/gsoap2/files/
