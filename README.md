@@ -1,2 +1,3 @@
 ###Project Introduction
-The gsoap-onvif project is a onvif client project
+
+The project is a onvif client project
