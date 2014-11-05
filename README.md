@@ -1,8 +1,9 @@
 ###Project Introduction
 
 
-The project is a onvif client project,from the project,you can learn
-how to get the WSDL address, RTSP URL,and the Device capabilities,
+The project is a onvif client project,
+through the project,you can learn
+how to get the IPC(ip camera)'s RTSP URL, video configuration, WSDL address, and the Device capabilities(such as PTZ),
 The project have the security check moudle
 
 About the API function ,you can learn from below website
