@@ -10,6 +10,8 @@ About the API function ,you can learn from below website
 
 http://www.onvif.org/onvif/ver20/util/operationIndex.html
 
+---
+
 ###ONVIF official website
 http://www.onvif.org/
 
@@ -17,7 +19,7 @@ http://www.onvif.org/
 http://www.cs.fsu.edu/~engelen/soap.html
 
 My project is Base on gsoap 2.8-17
-
+###download
 http://sourceforge.net/projects/gsoap2/files/
 
 for example,you get the RTSP URL, you can paly  the video use the player,such as VLC player.
