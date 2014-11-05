@@ -45,7 +45,7 @@ class SOAP_CMAC RemoteDiscoveryBindingProxy
 	/// Get SOAP Header structure (NULL when absent)
 	virtual	const SOAP_ENV__Header *soap_header();
 	/// Get SOAP Fault structure (NULL when absent)
-	/*virtual	const SOAP_ENV__Fault *soap_fault();*/
+	/*virtual	const SOAP_ENV__Fault *soap_fault();*/  
 	/// Get SOAP Fault string (NULL when absent)
 	virtual	const char *soap_fault_string();
 	/// Get SOAP Fault detail as string (NULL when absent)

@@ -5,7 +5,7 @@
 #include "plugin/wsaapi.h"
 #include  <openssl/rsa.h>
 #include  "ErrorLog.h"
-
+ 
 #include "include/soapDeviceBindingProxy.h"
 #include "include/soapMediaBindingProxy.h"
 #include "include/soapPTZBindingProxy.h"
