@@ -10,7 +10,6 @@ About the API function ,you can learn from below website
 
 http://www.onvif.org/onvif/ver20/util/operationIndex.html
 
-it's depent on the onvif protocol
 ###ONVIF ORG
 http://www.onvif.org/
 
