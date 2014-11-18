@@ -7,8 +7,8 @@ how to get the IPC(ip camera)'s RTSP URL, video configuration, WSDL address, and
 The project have the security check moudle
 
 ###Tips:
-my platform is Debian, ubuntu, i didn't compile it int the Reahat or Centos
-if you have any question, you can connect me
+my platform is Debian, ubuntu, i didn't compile it int the Redhat or Centos
+if you have any question, you can contract me
 
 usage:
 cd gsoap-onvif
