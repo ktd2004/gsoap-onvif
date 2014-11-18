@@ -11,8 +11,14 @@ my platform is Debian, ubuntu, i didn't compile it int the Redhat or Centos
 if you have any question, you can contact me
 
 ###usage:
-cd gsoap-onvif
 before you Make the Makefile. you must make sure you have install the g++, openssl
+cd gsoap-onvif
+
+make 
+
+if you compile sucess, you can use the execute object like this
+
+./ipconvif 172.18.XXX (your iPC IP ADDRESS)
 
 
 
