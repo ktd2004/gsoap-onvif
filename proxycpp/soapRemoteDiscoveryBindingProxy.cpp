@@ -142,9 +142,9 @@ const SOAP_ENV__Header *RemoteDiscoveryBindingProxy::soap_header()
 {	return this->soap->header;
 }
 
-const SOAP_ENV__Fault *RemoteDiscoveryBindingProxy::soap_fault()
+/*const SOAP_ENV__Fault *RemoteDiscoveryBindingProxy::soap_fault()
 {	return this->soap->fault;
-}
+}*/
 
 const char *RemoteDiscoveryBindingProxy::soap_fault_string()
 {	return *soap_faultstring(this->soap);

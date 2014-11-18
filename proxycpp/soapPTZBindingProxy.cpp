@@ -142,9 +142,9 @@ const SOAP_ENV__Header *PTZBindingProxy::soap_header()
 {	return this->soap->header;
 }
 
-const SOAP_ENV__Fault *PTZBindingProxy::soap_fault()
+/*const SOAP_ENV__Fault *PTZBindingProxy::soap_fault()
 {	return this->soap->fault;
-}
+}*/
 
 const char *PTZBindingProxy::soap_fault_string()
 {	return *soap_faultstring(this->soap);

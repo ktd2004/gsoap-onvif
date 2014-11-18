@@ -142,10 +142,10 @@ const SOAP_ENV__Header *PullPointSubscriptionBindingProxy::soap_header()
 {	return this->soap->header;
 }
 
-const SOAP_ENV__Fault *PullPointSubscriptionBindingProxy::soap_fault()
+/*const SOAP_ENV__Fault *PullPointSubscriptionBindingProxy::soap_fault()
 {	return this->soap->fault;
 }
-
+*/
 const char *PullPointSubscriptionBindingProxy::soap_fault_string()
 {	return *soap_faultstring(this->soap);
 }
