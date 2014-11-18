@@ -6,6 +6,16 @@ through the project,you can learn
 how to get the IPC(ip camera)'s RTSP URL, video configuration, WSDL address, and the Device capabilities(such as PTZ),
 The project have the security check moudle
 
+###Tips:
+my platform is Debian, ubuntu, i didn't compile it int the Reahat or Centos
+if you have any question, you can connect me
+
+usage:
+cd gsoap-onvif
+before you Make the Makefile. you must make sure you have install the g++, openssl
+
+
+
 About the API function ,you can learn from below website
 
 http://www.onvif.org/onvif/ver20/util/operationIndex.html
