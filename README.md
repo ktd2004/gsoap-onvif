@@ -6,9 +6,9 @@
   The project have the security check moudle
 
 ##Tips:
-my platform is Debian, ubuntu, i didn't compile it int the Redhat or Centos
-if you have any question, you can contact me
-before you Make the Makefile. you must make sure you have install the g++, openssl
+	my platform is Debian, ubuntu, i didn't compile it int the Redhat or Centos
+	if you have any question, you can contact me
+	before you Make the Makefile. you must make sure you have install the g++, openssl
 
 ##usage:
 
