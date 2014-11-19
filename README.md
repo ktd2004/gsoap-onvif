@@ -5,36 +5,33 @@ through the project,you can learn
 how to get the IPC(ip camera)'s RTSP URL, video configuration, WSDL address, and the Device capabilities(such as PTZ),
 The project have the security check moudle
 
-###Tips:
+##Tips:
 my platform is Debian, ubuntu, i didn't compile it int the Redhat or Centos
 if you have any question, you can contact me
-
-###usage:
 before you Make the Makefile. you must make sure you have install the g++, openssl
 
-cd gsoap-onvif
+##usage:
 
-make 
+1:cd gsoap-onvif
 
-if you compile sucess, you can use the execute object like this
+2: make 
 
-./ipconvif 172.18.XXX (your iPC IP ADDRESS)
+if you compile sucess, you can use the ipconvif like this
 
+./ipconvif xxx.xxx.xxx.xxx  (your iPC IP ADDRESS)
 
+##ONVIF official website
 
-About the API function ,you can learn from below website
+http://www.onvif.org/
+
+if you want to lear more onvif API 
 
 http://www.onvif.org/onvif/ver20/util/operationIndex.html
 
-
-###ONVIF official website
-http://www.onvif.org/
-
-###The Gsoap Toolkit
+##The Gsoap Toolkit
 http://www.cs.fsu.edu/~engelen/soap.html
 
-My project is Base on gsoap 2.8-17
-###download
+##download
 http://sourceforge.net/projects/gsoap2/files/
 
 for example,you get the RTSP URL, you can paly  the video use the player,such as VLC player.
