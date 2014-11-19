@@ -12,6 +12,7 @@ if you have any question, you can contact me
 
 ###usage:
 before you Make the Makefile. you must make sure you have install the g++, openssl
+
 cd gsoap-onvif
 
 make 
