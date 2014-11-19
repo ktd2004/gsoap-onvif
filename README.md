@@ -4,7 +4,7 @@
   	through the project,you can learn 
  	how to get the IPC(ip camera)'s RTSP URL, video configuration, WSDL address, 
 	and the Device capabilities(such as PTZ),
-  	The project have the security check moudle
+  	The project also have the security check moudle
 
 ##Tips:
 	my platform is Debian, ubuntu, i didn't compile it int the Redhat or Centos
