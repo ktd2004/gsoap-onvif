@@ -1,9 +1,10 @@
 ##Project Introduction
 
-  The project is a onvif client project,
-  through the project,you can learn
-  how to get the IPC(ip camera)'s RTSP URL, video configuration, WSDL address, and the Device capabilities(such as      PTZ),
-  The project have the security check moudle
+  	The project is a onvif client project,
+  	through the project,you can learn 
+ 	how to get the IPC(ip camera)'s RTSP URL, video configuration, WSDL address, 
+	and the Device capabilities(such as PTZ),
+  	The project have the security check moudle
 
 ##Tips:
 	my platform is Debian, ubuntu, i didn't compile it int the Redhat or Centos
@@ -12,9 +13,9 @@
 
 ##usage:
 
-1:cd gsoap-onvif
+	1:cd gsoap-onvif
 
-2: make 
+	2: make 
 
 if you compile sucess, you can use the ipconvif like this
 
@@ -39,12 +40,12 @@ for example,you get the RTSP URL, you can paly  the video use the player,such as
 ##VLC offical website
 http://www.videolan.org/
 
-and you can save the video use the ffmpeg tool,
+you can save the video use the ffmpeg tool,like this
 
-for example 
-ffmpeg -i ffmpeg -i rtsp://admin:admin@172.18.4.100:554 -b 300 -s 320x240 -vcodec copy  -ab 32 -ar 24000 -acodec aac -strict experimental -f mp4 test.mp4
+	ffmpeg -i ffmpeg -i rtsp://admin:admin@172.18.4.100:554 -b 300 -s 320x240 -vcodec copy  -ab 32 -ar 24000 -acodec aac -strict experimental -f mp4 test.mp4
 
 you can lear more
+
 ##ffmpeg official website
 https://www.ffmpeg.org/
 
