@@ -1,15 +1,13 @@
 ##Project Introduction
 
-  	The project is a onvif client project,
-  	through the project,you can learn 
+  	The project is a onvif client project,through the project,you can learn 
  	how to get the IPC(ip camera)'s RTSP URL, video configuration, WSDL address, 
-	and the Device capabilities(such as PTZ),
-  	The project also have the security check moudle
+	and the Device capabilities(such as PTZ).
 
 ##Tips:
 	The compile platform is Debian, ubuntu, i didn't compile it int the Redhat or Centos
-	if you have any question, you can contact me
-	before you Make the Makefile. you must make sure you have install the g++, openssl
+	if you have any question, you can contact me,before you Make the Makefile.
+	you must make sure you have install the g++, openssl
 
 ##usage:
 
@@ -19,7 +17,7 @@
 
 if you compile sucess, you can use the ipconvif like this
 
-./ipconvif 172.18.4.100  (your iPC IP)
+./ipconvif  172.18.4.100  (your iPC IP)
 
 ##ONVIF official website
 
