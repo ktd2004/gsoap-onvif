@@ -19,13 +19,13 @@
 
 if you compile sucess, you can use the ipconvif like this
 
-./ipconvif xxx.xxx.xxx.xxx  (your iPC IP ADDRESS)
+./ipconvif 172.18.4.100  (your iPC IP)
 
 ##ONVIF official website
 
 http://www.onvif.org/
 
-if you want to lear more onvif API 
+if you want to learn more onvif API 
 
 http://www.onvif.org/onvif/ver20/util/operationIndex.html
 
